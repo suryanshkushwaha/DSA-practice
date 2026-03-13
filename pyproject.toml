@@ -1,0 +1,7 @@
+[project]
+name = "dsa-practice"
+version = "0.1.0"
+description = "Python DSA practice from scratch"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
